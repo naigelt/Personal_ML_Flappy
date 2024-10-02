@@ -7,7 +7,8 @@ also in the main.cpp file u can change these to set the goals for the agent to h
 # Goal: pass at least 10 pipes consistently
 goal_pipes = 10
 required_consistency = 5  # The number of consecutive episodes with pipes passed >= goal_pipes
-consistent_count = 0  # Counter to track consistency```
+consistent_count = 0  # Counter to track consistency
+```
 
 Step 1: Clone or Download the Repository
 You can clone the GitHub repository that contains the project code or download the project files as a ZIP.
@@ -20,8 +21,10 @@ Navigate to the folder where you'd like to clone the repository.
 
 Run the following command (replace your-repo-url with the actual GitHub URL of the project):
 git commands:
-````git clone your-repo-url
-cd your-repo-folder```
+```
+git clone your-repo-url
+cd your-repo-folder
+```
 
 Option 2: Download as a ZIP:
 
