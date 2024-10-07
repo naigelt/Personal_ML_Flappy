@@ -1,3 +1,5 @@
+This is an implementation of The world renown game Flappy Bird. The game engine is made in C++.  The server playes the game and sends data to our python client. In the python side we are training a reinforcement learing agent, to learn the game well. This is accomplished using the python Framework Tensorflow.
+
 All commands in this instruction are for windows, for Linux user I dont Chat-gpt if u dont know ;)
 I suggest u open 2 terminals one for running python commmands and one for c++, Helps alot when when manually stopping one of the processes.
 Manual stop command is CTRL + C
